@@ -1,3 +1,0 @@
-val rdd = sc.parallelize(0 to 999)
-rdd.takeSample(false, 5)
-
